@@ -5,3 +5,5 @@ There are 2 classes :- <br/>
 2) Student Class with attributes Name, Age & Section. <br/>
 # Class Relationship
 Person Class is Parent Class and Student Class is Child Class, it inherits from Person Class. <br/>
+# Main Code Can be Found Here
+[main.py](https://github.com/SANKET-RAI/OOPS-Assignment/blob/main/main.py) <br />
